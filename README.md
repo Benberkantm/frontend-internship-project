@@ -1,4 +1,4 @@
-# Insider Frontend Internship Project
+# Frontend Internship Project
 
 A modern Nuxt 3 movie and TV show discovery application with TMDB API integration.
 
